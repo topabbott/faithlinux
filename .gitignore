@@ -1,0 +1,6 @@
+*.iso
+*.img
+*.log
+build/
+*.deb
+*.rpm
